@@ -29,5 +29,5 @@ function randomGame () {
     let intervalId = setInterval(callback, 1000);
 }
 
-randomGame();
-//countDown(11);
+//coundDown(11);
+//randomGame();
